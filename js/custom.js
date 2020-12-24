@@ -14,12 +14,19 @@ $(document).ready(function() {
     $(".admi-menu").mouseleave(function() {
         $(".admi-mm").fadeOut();
     });
-    //MEGA MENU	
-    $(".cour-menu").hover(function() {
-        $(".cour-mm").fadeIn();
+    //MEGA MENU India	
+    $(".ind-menu").hover(function() {
+        $(".ind-mm").fadeIn();
     });
-    $(".cour-menu").mouseleave(function() {
-        $(".cour-mm").fadeOut();
+    $(".ind-menu").mouseleave(function() {
+        $(".ind-mm").fadeOut();
+    });
+    //MEGA MENU Innternational
+    $(".intl-menu").hover(function() {
+        $(".intl-mm").fadeIn();
+    });
+    $(".intl-menu").mouseleave(function() {
+        $(".intl-mm").fadeOut();
     });
     //SINGLE DROPDOWN MENU
     $(".top-drop-menu").on('click', function() {
