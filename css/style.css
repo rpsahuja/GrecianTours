@@ -59,7 +59,7 @@
      background: linear-gradient(to bottom,#f4364f,#dc2039);
 }
  .link-btn:hover {
-     background-color: #e23464;
+     background-color: #2e3192;
      transition: all 0.5s ease;
      -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -1039,7 +1039,7 @@
      font-family: 'Quicksand', sans-serif;
 }
  .events table tr td a:hover {
-     background: #e23464;
+     background: #2e3192;
      background: linear-gradient(to bottom,#de253f,#df275a);
 }
  .events table tr th:first-child {
@@ -1134,7 +1134,7 @@
      width: 100%;
      bottom: 0px;
      top: 0px;
-     background: #e23464;
+     background: #2e3192;
      background: linear-gradient(to bottom,#f2f9ff,#e1e4e8);
 }
  .pla1 {
@@ -5691,7 +5691,7 @@
      font-family: 'Quicksand', sans-serif;
 }
  .main-menu ul li a:hover{
-     color: #e23464;
+     color: #2e3192;
 }
  .main-menu ul li a:after{
      content: "";
@@ -5700,8 +5700,8 @@
      height: 3px;
      bottom: 12px;
      left: 0;
-     color: #e23464;
-     background-color: #e23464;
+     color: #2e3192;
+     background-color: #2e3192;
      visibility: hidden;
      -webkit-transform: scaleX(0);
      transform: scaleX(0);
