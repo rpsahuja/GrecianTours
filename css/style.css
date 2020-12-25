@@ -55,8 +55,8 @@
      -moz-transition: all 0.5s ease;
      -ms-transition: all 0.5s ease;
      -o-transition: all 0.5s ease;
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
 }
  .link-btn:hover {
      background-color: #2e3192;
@@ -213,7 +213,7 @@
      */
 }
  .spe-title h2 span {
-     color: #f4364f;
+     color: #2c2f8c;
      font-size: 44px;
      font-weight: 600;
      font-family: 'Quicksand', sans-serif;
@@ -731,7 +731,7 @@
  .ho-hot-pri {
      font-size: 38px;
      font-weight: 600;
-     color: #f4364f;
+     color: #2c2f8c;
      float: right;
 }
  .ho-hot-pri-dis {
@@ -1648,8 +1648,8 @@
      -ms-transition: all 0.5s ease;
      -o-transition: all 0.5s ease;
      font-weight: 700;
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
 }
  .disco a:hover {
      background: #D46600;
@@ -1763,7 +1763,7 @@
      position: relative;
 }
  .inner_banner h2 {
-     color: #f4364f;
+     color: #2c2f8c;
      font-size: 32px;
      display: inline-block;
      font-weight: 600;
@@ -1962,8 +1962,8 @@
 }
  .banner_book_1 ul li a {
      background: #1aa5d8;
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
      display: block;
      text-align: center;
      color: #fff;
@@ -3587,7 +3587,7 @@
  .hot-list-p3-2 {
      font-size: 32px;
      font-weight: 600;
-     color: #f4364f;
+     color: #2c2f8c;
      padding: 10px 0px;
 }
  .hot-list-p3-3 {
@@ -3785,7 +3785,7 @@
      width: 32px;
      height: 32px;
      position: absolute;
-     background-color: #f4364fba;
+     background-color: #2c2f8cba;
     /* bottom: 8px;
      */
      padding: 4px;
@@ -4298,8 +4298,8 @@
  .tourz-sear-btn {
      height: 45px;
      line-height: 45px;
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
      outline: none;
      font-size: 16px;
      display: block !important;
@@ -4348,8 +4348,8 @@
  .tourz-hom-ser ul li a:hover {
      -webkit-transform: scale(1.1);
      transform: scale(1.1);
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
      border: 1px solid #d41e36;
 }
  .tourz-hom-ser ul li a img {
@@ -6192,7 +6192,7 @@
      margin-top: 15px;
 }
  .log-in-btn {
-     background: #f4364f;
+     background: #2c2f8c;
      color: #fff;
      padding: 2px 10px;
      font-weight: 600;
@@ -7420,8 +7420,8 @@
      font-size: 12px;
 }
  .ed-com-t1-right ul li:nth-child(1) a{
-     background: #f4364f;
-     background: linear-gradient(to bottom,#f4364f,#dc2039);
+     background: #2c2f8c;
+     background: linear-gradient(to bottom,#2c2f8c,#dc2039);
 }
  .ed-com-t1-right ul li:nth-child(2) a{
      background: #2d5d73;
@@ -7491,7 +7491,7 @@
      */
 }
  .ol-2 {
-     background: #f4364f;
+     background: #2c2f8c;
      padding: 5px 3px 3px 3px;
      position: relative;
     /* top: -18px;
@@ -7555,7 +7555,7 @@
      width: 60px;
      height: 60px;
      vertical-align: sub;
-     background: #f4364f;
+     background: #2c2f8c;
     /* border: 1px solid #a59d9d;
      */
 }
@@ -7599,7 +7599,7 @@
      font-size: 45px;
      display: block;
      text-transform: capitalize;
-     color: #f4364f;
+     color: #2c2f8c;
      font-weight: 600;
      font-family: 'Quicksand', sans-serif;
 }
@@ -7621,7 +7621,7 @@
      text-transform: uppercase;
      width: 300px;
      height: 300px;
-     background: #f4364f;
+     background: #2c2f8c;
      border-radius: 50%;
      padding: 50px;
      text-align: center;
@@ -7733,7 +7733,7 @@
      font-size: 18px;
 }
  .slid-cap a {
-     background: #f4364f;
+     background: #2c2f8c;
      padding: 7px 25px;
      color: #fff;
      text-transform: uppercase;
@@ -7906,7 +7906,7 @@
  .trav-list-bod{
 }
  .trav-list-bod a h3{
-     color: #f4364f;
+     color: #2c2f8c;
 }
  .trav-list-bod p{
      font-size: 13px;
